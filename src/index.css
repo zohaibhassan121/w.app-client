@@ -1,0 +1,11 @@
+@tailwind base;
+.font{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Poppins', sans-serif;
+
+}
+@tailwind components;
+@tailwind utilities;
+/* //////////// */
+
+
